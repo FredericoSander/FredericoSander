@@ -33,8 +33,8 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas. Minha paixão por te
 ### GitHub Stats
 <div>
   <a href="https://github.com/sanderfn">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanderfn&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=FFF&hide_title=true&hide=stars"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanderfn&layout=compact&langs_count=16&theme=transparent&bg_color=000&border_color=30A3DC"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sanderfn&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=FFF&hide_title=true&hide=stars"/>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanderfn&layout=compact&langs_count=16&theme=transparent&bg_color=000&border_color=30A3DC"/>
 </div>
     
 ##    

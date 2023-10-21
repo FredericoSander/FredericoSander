@@ -4,7 +4,7 @@
 Sou um estudante de Análise e Desenvolvimento de Sistemas. Minha paixão por tecnologia e programação me impulsiona a buscar oportunidades na área de TI, com um foco pelo desenvolvimento Backend. Tenho especial interesse em linguagens de programação orientadas a objetos, como Java, C#, Python, SQL e PHP, bem como em sistemas de Banco de Dados, tanto relacionais quanto não relacionais. Meu objetivo é me desenvolver com programador Backend e atuar em projetos que exijam soluções robustas e eficazes. Sou reconhecido por minha dinamicidade, dedicação e paixão por explorar novas tecnologias em busca da melhoria contínua e do aumento da produtividade.
 
 - 🔭 Hoje trabalho na área de saneamento básico e estou aguardando uma oportunidade na área de desenvolvimento de software.
-- 🌱 Atualmente eu estou aprenedendo Java e Python
+- 🌱 Atualmente eu estou aprendendo Java e Python
   
 ##
 

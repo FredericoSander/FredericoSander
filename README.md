@@ -18,8 +18,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas. Minha paixão por te
 
 ### Conecte-se comigo
 <div style="display: inline_block"><br>
-  <a href="mailto:sanderfn@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_black">
-  <a href="mailto:sanderfn@hotmail.com"><img src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_black">
+    <a href="mailto:sanderfn@hotmail.com"><img src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_black">
   <a href="https://www.linkedin.com/in/sanderfn"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black">  
 </div>
 
@@ -27,8 +26,8 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas. Minha paixão por te
 ### GitHub Stats
 <div>
   <a href="https://github.com/sanderfn">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sanderfn&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=FFF&hide_title=true&hide=stars"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanderfn&layout=compact&langs_count=16&theme=transparent&bg_color=000&border_color=30A3DC"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fredericosander&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=FFF&hide_title=true&hide=stars"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredericosander&layout=compact&langs_count=16&theme=transparent&bg_color=000&border_color=30A3DC"/>
 </div>
     
 ##    
@@ -41,7 +40,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas. Minha paixão por te
 
 
 <!--
-**Sanderfn/sanderfn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fredericosander/fredericosander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 

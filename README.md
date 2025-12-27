@@ -28,16 +28,15 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco em **Análise de Da
   <img align="center" alt="docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
 
-
   <h2>📊 Projetos Destacados</h2>
 </div>
 
 <!-- Aqui você pode listar alguns projetos relacionados a análise e engenharia de dados -->
 ### [Projeto de ETL em Python](https://github.com/FredericoSander/Projeto_de_ETL_em_Python)
 O Projeto de ETL em Python é um sistema de ETL (Extract, Transform, Load) desenvolvido em Python para processar e consolidar dados de vendas armazenados em múltiplos arquivos Excel. O projeto pode ser replicado em diversos processos que necessitam de consolidação de dados de fontes com a mesma estrutura.
- - **Tecnologias:** Python, Pandas.
- - **Impacto:** Automatização de 80% dos relatório manuais.
- - **Oportunidades:** Integração com ferramentas como Airflow e Power BI para automatizar a consolidação e vizualização dos dados. 
+ **Tecnologias:** Python, Pandas.
+ **Impacto:** Automatização de 80% dos relatório manuais.
+ **Oportunidades:** Integração com ferramentas como Airflow e Power BI para automatizar a consolidação e vizualização dos dados. 
 
 - [Análise de dados de vendas de pizzas](https://github.com/FredericoSander/Analise_de_dados_de_vendas_de_pizzas) O projeto consiste no desenvolvimento completo de um dashboard analítico completo para análise de vendas de uma pizzaria, demostrando competências em Business Intelligence, visualização de dados e análise de performance comercial.
 

@@ -24,8 +24,8 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco em **Análise de Da
   <img align="center" alt="Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img align="center" alt="PowerBI" height="40" width="50" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" />
   <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="PowerBI" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="PowerBI" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
 
 
@@ -33,7 +33,11 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco em **Análise de Da
 </div>
 
 <!-- Aqui você pode listar alguns projetos relacionados a análise e engenharia de dados -->
-- [Projeto de ETL em Python](https://github.com/FredericoSander/Projeto_de_ETL_em_Python): O Projeto de ETL em Python é um sistema de ETL (Extract, Transform, Load) desenvolvido em Python para processar e consolidar dados de vendas armazenados em múltiplos arquivos Excel. O projeto pode ser replicado em diversos processos que necessitam de consolidação de dados de fontes com a mesma estrutura.
+### [Projeto de ETL em Python](https://github.com/FredericoSander/Projeto_de_ETL_em_Python)
+O Projeto de ETL em Python é um sistema de ETL (Extract, Transform, Load) desenvolvido em Python para processar e consolidar dados de vendas armazenados em múltiplos arquivos Excel. O projeto pode ser replicado em diversos processos que necessitam de consolidação de dados de fontes com a mesma estrutura.
+ - **Tecnologias:** Python, Pandas.
+ - **Impacto:** Automatização de 80% dos relatório manuais.
+ - **Oportunidades:** Integração com ferramentas como Airflow e Power BI para automatizar a consolidação e vizualização dos dados. 
 
 - [Análise de dados de vendas de pizzas](https://github.com/FredericoSander/Analise_de_dados_de_vendas_de_pizzas) O projeto consiste no desenvolvimento completo de um dashboard analítico completo para análise de vendas de uma pizzaria, demostrando competências em Business Intelligence, visualização de dados e análise de performance comercial.
 
@@ -47,7 +51,6 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco em **Análise de Da
 - 📚 Cursos complementares:
   - Curso de Python para Análise de Dados
   - Banco de Dados SQL e NoSQL
-
 
   <h2>🔗 Conecte-se comigo</h2>
 

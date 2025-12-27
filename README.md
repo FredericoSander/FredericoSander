@@ -41,11 +41,6 @@ Análise exploratória completa de banco de dados empresarial com SQL avançado.
 - **Tecnologias:** SQL, Postgres, Joins Avançados
 - **Foco:** Modelagem relacional e otimização de queries
 
-### 🍕 [Análise de Vendas - Dashboard Power BI](https://github.com/FredericoSander/analise-vendas-pizzas)
-Dashboard analítico completo para análise de desempenho comercial de pizzaria.
-- **Tecnologias:** Power BI, DAX,
-- **Resultado:** 12 KPIs automatizados para tomada de decisão
-
 ## 🎓 Formação acadêmica
 
 ### Tecnólogo em Análise e Desenvolvimento de Sistemas | Estácio 2023-2026

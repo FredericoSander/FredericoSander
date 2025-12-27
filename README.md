@@ -6,11 +6,9 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco em **Análise de Da
 - 🌱 **Aprendendo:** Python, SQL para análise de dados, ferramentas ETL e processamento de dados
 - 🎯 **Objetivo:** Especialização em **Engenharia de Dados** para resolver problemas complexos em escala
 - 🚀 **Experiência comprovada:** Detecção de fraudes, otimização de processos, dashboards automatizados
-- 💬 **Pergunte-me sobre:** Python, SQL, Power BI, ETL
 
 ## 🛠️ Stack tecnológicas
 
-### Minha pilha
 <div style="display: inline_block">
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -46,7 +44,7 @@ Análise exploratória completa de banco de dados empresarial com SQL avançado.
 ### 🍕 [Análise de Vendas - Dashboard Power BI](https://github.com/FredericoSander/analise-vendas-pizzas)
 Dashboard analítico completo para análise de desempenho comercial de pizzaria.
 - **Tecnologias:** Power BI, DAX,
-- **Resultado:** 14 KPIs automatizados para tomada de decisão
+- **Resultado:** 12 KPIs automatizados para tomada de decisão
 
 ## 🎓 Formação acadêmica
 
@@ -72,7 +70,7 @@ Dashboard analítico completo para análise de desempenho comercial de pizzaria.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 
-<div align="center">
+<div align="">
   <img src="https://komarev.com/ghpvc/?username=FredericoSander&color=blue&style=flat-square&label=Visualizações+do+Perfil">
 </div>
 <!--

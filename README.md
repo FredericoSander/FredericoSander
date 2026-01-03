@@ -5,7 +5,7 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco em **Análise de Da
 - 🔭 **Atualmente:** Desenvolvendo pipelines automatizados com **Python**
 - 🌱 **Aprendendo:** Python, SQL para análise de dados, ferramentas ETL e processamento de dados
 - 🎯 **Objetivo:** Especialização em **Engenharia de Dados** para resolver problemas complexos em escala
-- 🚀 **Experiência comprovada:** Detecção de fraudes, otimização de processos, dashboards automatizados
+- 🚀 **Experiência comprovada:**  otimização de processos, dashboards automatizados
 
 ## 🛠️ Stack tecnológicas
 
@@ -50,19 +50,17 @@ Análise exploratória completa de banco de dados empresarial com SQL avançado.
   -  Python Data Analytics - DIO 2024
   -  Bootcamp Ciência de Dados - iFood/DIO 2024
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fredericosander&theme=react&background=0D1117&border=3498db&stroke=3498db&ring=3498db&fire=3498db&currStreakLabel=3498db" alt="GitHub Streak"/>
-</div>
 
 ## 🔗 Conecte-se comigo
 
   <a href="mailto:sanderfn@hotmail.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/frederico-cota-dev">
+  <a href="https://www.linkedin.com/in/frederico-sander-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://github.com/FredericoSander">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
 
 <div align="">
